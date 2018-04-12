@@ -1,0 +1,2612 @@
+@prefix qb: <http://purl.org/linked-data/cube#> . 
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> . 
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> . 
+@prefix interval: <http://reference.data.gov.uk/def/intervals/> . 
+@prefix sltsv: <http://w3id.org/sri-lanka/tourism/cube-vocab/> .
+@prefix sltsds: <http://w3id.org/sri-lanka/tourism/cube-data-structure/> . 
+@prefix sltsd: <http://w3id.org/sri-lanka/tourism/dataset/> . 
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/58d4223a-9cc0-490d-8c8a-5e348c0f8ee2>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Canada>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:January;
+ sltsv:numberOfArrivals "3070"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/21dfaf83-111e-41ea-b61b-857204c86224>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence;
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Canada>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:February;
+ sltsv:numberOfArrivals "2609"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/8429ebff-8387-4078-a775-d456b7e6023e>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Canada>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:March;
+ sltsv:numberOfArrivals "2641"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/48e1f8bb-c1f3-4039-a408-24996344313b>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Canada>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:April;
+ sltsv:numberOfArrivals "2417"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/fbf77735-0eaa-422a-b575-fc323462863d>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Canada>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:May;
+ sltsv:numberOfArrivals "2296"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/0537c03e-0f0c-4838-b461-cafb90078513>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Canada>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:June;
+ sltsv:numberOfArrivals "3759"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/1b8acb7d-c115-4298-a826-2f5e904cb8a8>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Canada>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:July;
+ sltsv:numberOfArrivals "3741"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/2a8086d9-d435-444e-b953-298837a64630>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Canada>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:August;
+ sltsv:numberOfArrivals "3317"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/726d6c96-7959-409e-8a4f-d6d13cc1dac0>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Canada>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:September;
+ sltsv:numberOfArrivals "1644"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/de939762-1eb2-4a36-816f-7739ab6cec56>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Canada>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:October;
+ sltsv:numberOfArrivals "1931"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/e403f56e-b200-4f2e-9871-6daaaa662c74>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Canada>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:November;
+ sltsv:numberOfArrivals "1990"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/cb6aa0e0-8f8d-47fc-8b86-fc9da18ee364>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Canada>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:December;
+ sltsv:numberOfArrivals "3867"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/85895641-4916-4e34-b40b-c569e7b9847e>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/United_States>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:January;
+ sltsv:numberOfArrivals "3839"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/dc480282-f724-43f5-b984-c023622ff4f5>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/United_States>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:February;
+ sltsv:numberOfArrivals "2880"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/0e9b739a-4a82-4598-a95a-12338d14f443>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/United_States>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:March;
+ sltsv:numberOfArrivals "3401"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/97225689-466d-401b-aa98-71cb9a5c8f26>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/United_States>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:April;
+ sltsv:numberOfArrivals "3097"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/a73f083e-916c-47c1-8c1d-1f1ea0f3f515>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/United_States>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:May;
+ sltsv:numberOfArrivals "2449"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/74bba4a6-a7e6-4998-bcc6-8f02a97d08fd>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/United_States>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:June;
+ sltsv:numberOfArrivals "3130"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/cd2a6e49-08a4-4b76-8756-7d5823673d3b>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/United_States>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:July;
+ sltsv:numberOfArrivals "3493"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/00690d27-238d-4b13-b422-1a0d68af456e>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/United_States>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:August;
+ sltsv:numberOfArrivals "2648"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/73d72d12-3d63-4d22-aa35-4c4e91d3a22e>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/United_States>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:September;
+ sltsv:numberOfArrivals "2191"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/06e62a4c-a22a-4917-b27a-ebddcd25bef4>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/United_States>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:October;
+ sltsv:numberOfArrivals "3275"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/2039a075-31f3-42de-b45d-eb347d43a1d7>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/United_States>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:November;
+ sltsv:numberOfArrivals "2951"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/9839e77d-d62c-4df9-bca0-724489b44bc0>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/United_States>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:December;
+ sltsv:numberOfArrivals "6017"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/d8f3de83-bf6d-481b-bb7e-80dedc373a8e>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Austria>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:January;
+ sltsv:numberOfArrivals "1652"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/356925b6-6f6c-446d-b611-c3bf389c9110>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Austria>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:February;
+ sltsv:numberOfArrivals "2086"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/53cff391-084d-478a-a690-76828ad63ebf>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Austria>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:March;
+ sltsv:numberOfArrivals "1482"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/7e62b153-f829-497e-bb54-e50d09e2b9d8>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Austria>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:April;
+ sltsv:numberOfArrivals "893"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/8685cab3-6b68-45db-bdb1-2a46bebd1764>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Austria>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:May;
+ sltsv:numberOfArrivals "395"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/f14ec8a2-f1dc-4fb9-9859-50b9d524895e>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Austria>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:June;
+ sltsv:numberOfArrivals "348"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/3b6d3067-f091-4df0-9c5c-24c103333871>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Austria>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:July;
+ sltsv:numberOfArrivals "1034"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/c00e7126-14a2-4ce3-bc3b-63ac6d12916e>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Austria>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:August;
+ sltsv:numberOfArrivals "758"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/d847d422-c3fb-4673-ab2c-01e7116914ef>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Austria>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:September;
+ sltsv:numberOfArrivals "570"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/6e4676cf-baee-44ca-bbbc-a4f32f4c80ab>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Austria>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:October;
+ sltsv:numberOfArrivals "605"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/92f5b8b2-1ff0-455f-9f1f-3d6afe3dcc90>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Austria>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:November;
+ sltsv:numberOfArrivals "1018"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/5542b07a-0737-41ea-a42c-1b44d33ea925>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Austria>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:December;
+ sltsv:numberOfArrivals "1823"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/081dd59b-1ac2-4b9b-bc23-95b3653b1ee5>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Belgium>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:January;
+ sltsv:numberOfArrivals "723"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/e579a1ca-da28-4c0f-880f-47b48449979e>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Belgium>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:February;
+ sltsv:numberOfArrivals "1027"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/33c81954-f05b-46fa-936f-a131e6368c86>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Belgium>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:March;
+ sltsv:numberOfArrivals "817"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/1b632ca6-acaa-4ff4-96f7-82b950a1b8f4>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Belgium>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:April;
+ sltsv:numberOfArrivals "867"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/3d5cec04-f2af-44b8-8915-461aa0b1b872>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Belgium>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:May;
+ sltsv:numberOfArrivals "286"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/89340b56-6a96-406e-a5a4-355728e7e7e5>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Belgium>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:June;
+ sltsv:numberOfArrivals "538"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/006273ea-d835-4efd-9352-8f27af2e03a3>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Belgium>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:July;
+ sltsv:numberOfArrivals "1866"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/48dcc16e-c724-486d-b74f-35047b837e79>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Belgium>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:August;
+ sltsv:numberOfArrivals "968"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/30d1f09d-7b9e-4cb0-bf75-681704cfff37>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Belgium>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:September;
+ sltsv:numberOfArrivals "684"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/e7c0d0e7-7331-4bc2-bd31-3f4ca1477a8b>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Belgium>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:October;
+ sltsv:numberOfArrivals "479"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/e815be30-f854-4ac0-a2c2-0da7faf687d0>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Belgium>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:November;
+ sltsv:numberOfArrivals "629"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/a8c1ddcc-cf21-47e7-b0a3-252ba0e8fe8c>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Belgium>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:December;
+ sltsv:numberOfArrivals "1031"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/baf70d80-ba43-4f0c-ad60-7c3405227108>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Denmark>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:January;
+ sltsv:numberOfArrivals "1700"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/e2f76e9d-d5a2-4b0e-9fae-e50ed83288f5>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Denmark>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:February;
+ sltsv:numberOfArrivals "1872"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/367f1c4a-a4e8-40ed-8089-5d6b08559623>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Denmark>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:March;
+ sltsv:numberOfArrivals "821"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/446562e0-808c-406d-adcf-6a788b5662c5>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Denmark>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:April;
+ sltsv:numberOfArrivals "785"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/73fb65a8-2d93-4ee8-9a4c-4bc1b3c4c0ef>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Denmark>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:May;
+ sltsv:numberOfArrivals "193"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/f1b4602d-8e1b-4703-984d-e1525e96a74d>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Denmark>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:June;
+ sltsv:numberOfArrivals "633"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/7a6e4b20-9806-47bf-9661-27bc31e1c3c9>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Denmark>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:July;
+ sltsv:numberOfArrivals "1679"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/3e178384-e3cd-4731-b085-4c16f1b020f2>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Denmark>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:August;
+ sltsv:numberOfArrivals "461"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/e76269dd-7bdc-4c06-89ad-8878f4715ce2>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Denmark>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:September;
+ sltsv:numberOfArrivals "310"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/8ad605c9-3c7e-4b21-92f4-264eac585fe5>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Denmark>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:October;
+ sltsv:numberOfArrivals "566"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/8e173b20-28fe-40c9-b2a1-730cb4844213>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Denmark>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:November;
+ sltsv:numberOfArrivals "467"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/3de12ce4-7b43-476f-bc29-288de865d56b>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Denmark>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:December;
+ sltsv:numberOfArrivals "1752"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/18afceda-6c03-4b22-b39c-69f380c11fd1>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/France>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:January;
+ sltsv:numberOfArrivals "8430"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/d2e6dec0-f60f-4b48-83a3-580f6c2c090d>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/France>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:February;
+ sltsv:numberOfArrivals "10617"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/ec9d6312-52f5-458d-955a-ea53fefad408>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/France>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:March;
+ sltsv:numberOfArrivals "9266"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/90e750f1-0c0a-471a-9c84-fc44c769bf57>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/France>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:April;
+ sltsv:numberOfArrivals "5970"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/8b715893-8c29-4f90-be04-2d0718be7cc6>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/France>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:May;
+ sltsv:numberOfArrivals "2875"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/5da2a6de-5449-4a48-9c5d-de2044035a4c>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/France>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:June;
+ sltsv:numberOfArrivals "2882"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/a2ae3c2d-8127-4403-a3aa-033944bb27fc>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/France>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:July;
+ sltsv:numberOfArrivals "9095"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/03615506-c4cf-4f8b-a1ca-062b3e4d779a>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/France>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:August;
+ sltsv:numberOfArrivals "8746"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/debd825e-e668-4300-b6d9-672c578c7e2e>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/France>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:September;
+ sltsv:numberOfArrivals "3897"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/7e8fba83-54e7-4169-8ffc-d4b19515a62c>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/France>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:October;
+ sltsv:numberOfArrivals "4523"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/5dd868bb-a092-4823-9662-376457621d59>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/France>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:November;
+ sltsv:numberOfArrivals "5448"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/b1c79141-3f99-4752-9def-4b9e652ac85a>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/France>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:December;
+ sltsv:numberOfArrivals "7134"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/c84a2b1b-d31d-47d3-843a-b185dbdc899c>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Germany>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:January;
+ sltsv:numberOfArrivals "9211"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/9f3b9092-8409-4d73-b72d-9ce44b64c9f4>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Germany>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:February;
+ sltsv:numberOfArrivals "11305"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/4fb1d740-a1f1-4ae8-9e51-65e8bb06d6e1>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Germany>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:March;
+ sltsv:numberOfArrivals "12448"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/76e24b27-e238-4254-b942-11f667433024>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Germany>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:April;
+ sltsv:numberOfArrivals "8137"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/a93cb52a-8041-438d-b011-3cba521f9c2f>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Germany>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:May;
+ sltsv:numberOfArrivals "4423"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/d92bd2bf-7a0f-4e83-9279-96c93d039bc3>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Germany>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:June;
+ sltsv:numberOfArrivals "4328"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/d05c9a0b-d713-47c2-8f86-8f8ba90f7343>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Germany>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:July;
+ sltsv:numberOfArrivals "7921"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/8917f31d-59c1-4887-af0d-67fbb76ef9cf>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Germany>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:August;
+ sltsv:numberOfArrivals "10364"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/ef5450de-7af4-4677-88f6-82913167815f>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Germany>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:September;
+ sltsv:numberOfArrivals "6996"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/e6a33982-442d-4704-b807-2937012ed036>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Germany>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:October;
+ sltsv:numberOfArrivals "7966"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/417eca71-288d-4cea-af76-ab4df3d3392f>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Germany>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:November;
+ sltsv:numberOfArrivals "9049"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/4eeacd12-1bd6-45c1-b2e1-6c2e20de2b13>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Germany>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:December;
+ sltsv:numberOfArrivals "10289"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/a98e6160-8095-42d3-999d-b99ca80db819>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Netherlands>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:January;
+ sltsv:numberOfArrivals "1958"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/155ba0d2-1347-423b-9805-bffea2da78e5>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Netherlands>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:February;
+ sltsv:numberOfArrivals "2066"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/3bccbb87-3349-459a-90cc-898ee0f76e96>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Netherlands>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:March;
+ sltsv:numberOfArrivals "1540"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/f420a8c2-ebc5-4c76-bcaf-8cf8f0919569>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Netherlands>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:April;
+ sltsv:numberOfArrivals "1442"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/6629a5e9-d8bd-4c19-af73-bd07abb36465>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Netherlands>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:May;
+ sltsv:numberOfArrivals "973"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/91527d53-7d01-4bd5-bcf2-34082a4438e3>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Netherlands>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:June;
+ sltsv:numberOfArrivals "1068"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/4b96080a-fd92-4d23-af70-c259c91ceb52>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Netherlands>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:July;
+ sltsv:numberOfArrivals "5582"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/508ca80a-80e6-4b97-b15c-cf2f9079f2c0>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Netherlands>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:August;
+ sltsv:numberOfArrivals "2490"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/5dda839a-3c16-42ca-a7bd-ad13e0bec0a7>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Netherlands>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:September;
+ sltsv:numberOfArrivals "1742"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/c6362733-0010-4d7d-bba3-b7d616a7fb42>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Netherlands>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:October;
+ sltsv:numberOfArrivals "1509"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/1c35ac87-ffa4-47dc-9dea-8c0dda3f03ec>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Netherlands>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:November;
+ sltsv:numberOfArrivals "1498"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/a9d7e4d9-6794-4b83-8a83-ce41a283ed40>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Netherlands>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:December;
+ sltsv:numberOfArrivals "2328"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/3d06618f-a782-4177-a4a8-2f08199f03cc>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Italy>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:January;
+ sltsv:numberOfArrivals "2497"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/05e0a246-f38b-456e-8236-ac345efb67ee>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Italy>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:February;
+ sltsv:numberOfArrivals "2177"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/f5817707-e2ee-4cb9-8116-fda2baa56722>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Italy>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:March;
+ sltsv:numberOfArrivals "1592"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/5a598d32-2b0c-48e6-aafd-7e4a6061cf59>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Italy>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:April;
+ sltsv:numberOfArrivals "1511"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/25df00b4-af5f-4edb-a1b6-2b87365c7453>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Italy>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:May;
+ sltsv:numberOfArrivals "732"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/f780abb6-fb60-43ba-90c2-e47361e521ba>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Italy>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:June;
+ sltsv:numberOfArrivals "1068"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/dc1dc7e6-bed5-46aa-a2a8-248f6d11c458>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Italy>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:July;
+ sltsv:numberOfArrivals "1673"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/93996009-ae69-4985-ae99-a5261a8fbb47>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Italy>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:August;
+ sltsv:numberOfArrivals "3043"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/cf70d8ea-a089-443a-ba73-ac702f3a68ee>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Italy>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:September;
+ sltsv:numberOfArrivals "1125"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/b4feb237-9488-4875-9dd3-4d8b85b3cb0f>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Italy>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:October;
+ sltsv:numberOfArrivals "1060"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/f24a2ad3-1756-4cb9-8db0-592ebc539ebe>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Italy>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:November;
+ sltsv:numberOfArrivals "1519"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/a98d7c51-16a7-41ed-9b6d-e6dbf03a7ecd>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Italy>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:December;
+ sltsv:numberOfArrivals "3119"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/c9ee984d-28ec-41eb-8d05-41ee2fb26543>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Norway>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:January;
+ sltsv:numberOfArrivals "739"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/9a0d7416-ab87-443b-90fa-6825c9848cb1>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Norway>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:February;
+ sltsv:numberOfArrivals "811"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/91338d57-bcac-4ce0-8b32-dfc622e66efe>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Norway>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:March;
+ sltsv:numberOfArrivals "474"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/4c6dfb88-2e90-4780-a2b4-e18c4f017890>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Norway>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:April;
+ sltsv:numberOfArrivals "459"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/5d92fb6d-bf99-4c73-bcac-6a3259abd70f>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Norway>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:May;
+ sltsv:numberOfArrivals "257"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/a73a60da-faf5-4534-ab37-569f92638624>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Norway>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:June;
+ sltsv:numberOfArrivals "1509"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/9b89158a-f172-4d8a-83f7-48f50be4ceb3>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Norway>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:July;
+ sltsv:numberOfArrivals "1800"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/3b0aca2d-ac14-4583-b458-79401b2b6220>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Norway>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:August;
+ sltsv:numberOfArrivals "403"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/9be5d348-2cbc-447e-afa4-ae7d948d3d76>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Norway>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:September;
+ sltsv:numberOfArrivals "362"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/58ae5321-0811-4e5b-985e-bcd1f12a9ed6>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Norway>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:October;
+ sltsv:numberOfArrivals "471"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/63ab36c6-4b39-48a7-95a1-2a2c162d9ac6>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Norway>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:November;
+ sltsv:numberOfArrivals "679"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/29e9aa4e-13a6-454e-9e44-9d73b301e00a>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Norway>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:December;
+ sltsv:numberOfArrivals "1273"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/6b0bab33-b26e-4364-b556-a11f76b9b9e9>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Spain>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:January;
+ sltsv:numberOfArrivals "604"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/83ff8b61-57a8-4098-9b6f-3ccf0dd1f007>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Spain>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:February;
+ sltsv:numberOfArrivals "584"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/15f9862e-981a-41c9-9346-73a55aa1389c>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Spain>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:March;
+ sltsv:numberOfArrivals "564"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/016884c3-fca4-4744-95a9-595fdc8b895c>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Spain>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:April;
+ sltsv:numberOfArrivals "912"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/46af77ef-3ebe-43ac-b9ec-bc0ef055f5b4>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Spain>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:May;
+ sltsv:numberOfArrivals "506"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/a9d05094-6f78-4802-b3e7-5bf67fb3469c>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Spain>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:June;
+ sltsv:numberOfArrivals "564"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/46e8b4c9-1085-47c8-a9cb-85f0c49bc33b>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Spain>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:July;
+ sltsv:numberOfArrivals "1276"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/9d1bacea-bde4-4ea2-808d-2fe91f70cb19>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Spain>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:August;
+ sltsv:numberOfArrivals "2608"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/649971cd-dcc9-4319-9070-9d87f36d3cab>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Spain>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:September;
+ sltsv:numberOfArrivals "1075"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/6cd1bb78-2d96-4624-a82c-84fdba8cda73>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Spain>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:October;
+ sltsv:numberOfArrivals "1210"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/b07406a8-84ea-4eb1-b63b-c59071f19b2e>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Spain>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:November;
+ sltsv:numberOfArrivals "968"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/c6488e61-0787-469f-837b-b56221959fdb>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Spain>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:December;
+ sltsv:numberOfArrivals "1043"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/1ca32537-96f8-4743-88a4-eb84ef753b4a>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Sweden>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:January;
+ sltsv:numberOfArrivals "2242"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/d04b3cc3-0911-44d9-ab46-7d5ea3128b01>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Sweden>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:February;
+ sltsv:numberOfArrivals "1999"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/30607693-f7e3-4cef-91f2-ea2081a88143>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Sweden>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:March;
+ sltsv:numberOfArrivals "1073"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/1949604d-4a44-49bc-afa0-0cecd9308813>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Sweden>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:April;
+ sltsv:numberOfArrivals "669"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/f0e74fbc-025f-45ab-91c3-ea983b222fd5>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Sweden>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:May;
+ sltsv:numberOfArrivals "283"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/9df5a18f-2f5c-4959-89a2-7956c4a9f5ea>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Sweden>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:June;
+ sltsv:numberOfArrivals "653"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/dc8ca41a-3700-446b-a660-e859b078a6c7>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Sweden>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:July;
+ sltsv:numberOfArrivals "602"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/14f261a9-6292-4497-9677-172ff4a7205a>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Sweden>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:August;
+ sltsv:numberOfArrivals "343"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/aff0d61e-d430-4e5b-9440-6c2060a19b41>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Sweden>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:September;
+ sltsv:numberOfArrivals "373"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/e7ad8a98-f345-4a6a-bf7c-7bf1f0123d04>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Sweden>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:October;
+ sltsv:numberOfArrivals "858"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/b0466ccc-26db-4ebf-8a93-132c8aa36e09>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Sweden>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:November;
+ sltsv:numberOfArrivals "1142"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/8e2faa6d-418a-4eda-b786-75f420662007>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Sweden>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:December;
+ sltsv:numberOfArrivals "4022"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/868cdb62-f355-4fab-901d-475f0c1e8793>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Switzerland>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:January;
+ sltsv:numberOfArrivals "1827"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/f16f0702-8702-419f-9fce-a60311b162b5>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Switzerland>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:February;
+ sltsv:numberOfArrivals "2244"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/e501bb8a-7f4a-432c-a144-dce26eef3d74>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Switzerland>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:March;
+ sltsv:numberOfArrivals "1419"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/4e8622d0-55d0-4771-b421-8b64aea77be3>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Switzerland>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:April;
+ sltsv:numberOfArrivals "1742"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/322263f3-6db4-49e9-b829-e663a39a288b>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Switzerland>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:May;
+ sltsv:numberOfArrivals "711"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/012ca5ae-3b3f-4967-8122-d71dcd41e9b3>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Switzerland>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:June;
+ sltsv:numberOfArrivals "817"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/e939a2f8-1ab0-468a-b211-1aa9163101db>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Switzerland>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:July;
+ sltsv:numberOfArrivals "4334"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/ddb5d149-2b48-49ff-be85-6b89ddb9637f>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Switzerland>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:August;
+ sltsv:numberOfArrivals "1030"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/bd1b0e54-1afe-4cc5-9540-7104c8456135>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Switzerland>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:September;
+ sltsv:numberOfArrivals "893"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/2a0ecc2f-6fa4-45b7-b1c8-5286f9860f54>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Switzerland>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:October;
+ sltsv:numberOfArrivals "1372"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/ec5eb140-1919-4dc2-82d3-8af20f0f01c9>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Switzerland>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:November;
+ sltsv:numberOfArrivals "1353"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/65dca821-2f9c-4eb3-9430-5a463013bb16>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Switzerland>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:December;
+ sltsv:numberOfArrivals "2355"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/7fad211a-fc9b-4320-97d5-0033c903a066>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/United_Kingdom>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:January;
+ sltsv:numberOfArrivals "12896"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/92a196ad-5fa8-441d-aa8f-48254aaac391>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/United_Kingdom>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:February;
+ sltsv:numberOfArrivals "14316"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/b80fc285-e038-4d70-abc2-eb9d54b5e53f>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/United_Kingdom>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:March;
+ sltsv:numberOfArrivals "11823"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/d0c6fb34-5a63-4e49-acc3-fe2ae963b112>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/United_Kingdom>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:April;
+ sltsv:numberOfArrivals "12380"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/eda6444f-ebc5-45ad-8017-0771a2511f14>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/United_Kingdom>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:May;
+ sltsv:numberOfArrivals "6918"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/33c8fc0d-1827-4135-a9a9-52d235e5cb5f>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/United_Kingdom>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:June;
+ sltsv:numberOfArrivals "7790"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/c10018e9-c256-48f0-b407-afe7ea99dda9>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/United_Kingdom>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:July;
+ sltsv:numberOfArrivals "16692"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/2217169b-632f-44b6-b8ec-bbeb66e858d6>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/United_Kingdom>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:August;
+ sltsv:numberOfArrivals "15532"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/ef6918b3-1be7-4f26-bd09-900ddc854767>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/United_Kingdom>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:September;
+ sltsv:numberOfArrivals "8983"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/ebee249b-70f1-42ad-8346-da79e5f6f501>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/United_Kingdom>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:October;
+ sltsv:numberOfArrivals "10112"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/98f63cc9-b57c-47f9-b9cd-93a73d01d7fc>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/United_Kingdom>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:November;
+ sltsv:numberOfArrivals "10730"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/51d0fd67-4a17-4165-91cd-b2e7288fba45>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/United_Kingdom>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:December;
+ sltsv:numberOfArrivals "15996"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/85715d1e-6fb3-4449-b7da-ab2dca6d2554>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Russia>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:January;
+ sltsv:numberOfArrivals "10700"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/f8bdb350-5a7f-4389-af16-d0e9bebef0b1>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Russia>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:February;
+ sltsv:numberOfArrivals "9723"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/b3fc718b-fab6-4d85-9f8e-bb62c6b53f0f>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Russia>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:March;
+ sltsv:numberOfArrivals "8948"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/983e1de0-6790-4c96-bb08-621d073b43b2>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Russia>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:April;
+ sltsv:numberOfArrivals "4976"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/e79780e9-6b11-43f2-8065-a68c77ea7983>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Russia>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:May;
+ sltsv:numberOfArrivals "2308"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/fcbe56a6-e419-4a39-a3e1-dea2e3f5c65e>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Russia>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:June;
+ sltsv:numberOfArrivals "2077"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/828d2002-de62-4952-b87e-407fd3c2e382>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Russia>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:July;
+ sltsv:numberOfArrivals "2649"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/614a9efc-0636-4efb-9a6d-6cd3c4df111b>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Russia>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:August;
+ sltsv:numberOfArrivals "3246"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/4609af7d-73de-4177-9b7a-1abedd293351>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Russia>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:September;
+ sltsv:numberOfArrivals "3018"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/cef4fa83-a42a-4efb-9f54-3d067cc7698d>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Russia>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:October;
+ sltsv:numberOfArrivals "5512"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/f2b448b2-18ea-4567-b80a-f68f813078ae>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Russia>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:November;
+ sltsv:numberOfArrivals "7282"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/9a3c88ad-7f66-412e-be01-3cac152bef07>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Russia>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:December;
+ sltsv:numberOfArrivals "9279"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/56b8a626-891f-42e3-91c7-e9ae482e884f>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Ukraine>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:January;
+ sltsv:numberOfArrivals "6424"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/dd0543d4-c96d-4d9a-a706-b7edecc4dda8>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Ukraine>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:February;
+ sltsv:numberOfArrivals "4905"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/ba28dbfc-c705-4785-8095-5890c9613fbd>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Ukraine>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:March;
+ sltsv:numberOfArrivals "3311"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/31e463e5-f54c-415a-bec7-4fe4df0a89c7>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Ukraine>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:April;
+ sltsv:numberOfArrivals "1927"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/5081da10-71b2-4935-9a08-f636996f0e6d>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Ukraine>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:May;
+ sltsv:numberOfArrivals "888"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/a347b395-c1ed-4f92-b443-7dd47e494d92>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Ukraine>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:June;
+ sltsv:numberOfArrivals "701"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/06378e49-7ab0-4e92-96e4-ca19e0a24fe4>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Ukraine>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:July;
+ sltsv:numberOfArrivals "1029"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/0f5d2213-4fe5-41a1-897d-c9e6df5d1fc1>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Ukraine>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:August;
+ sltsv:numberOfArrivals "1109"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/60baa93b-4813-4141-862c-06c7b952ce96>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Ukraine>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:September;
+ sltsv:numberOfArrivals "1350"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/8207e648-75f2-46b3-8a91-454d02533d65>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Ukraine>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:October;
+ sltsv:numberOfArrivals "2181"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/fbc4cab8-a1f9-4a8e-9d0b-a1d896a7873a>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Ukraine>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:November;
+ sltsv:numberOfArrivals "2654"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/99f5265b-b906-4e58-942f-4baa637bb137>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Ukraine>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:December;
+ sltsv:numberOfArrivals "3403"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/37b1c40c-0e5f-47f9-8b08-252a2e56bf9c>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/South_Africa>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:January;
+ sltsv:numberOfArrivals "302"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/49b568fe-189b-4a44-9c2c-95e3ef97c0f3>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/South_Africa>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:February;
+ sltsv:numberOfArrivals "259"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/a718d499-1734-42e3-8037-612d1e1a1708>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/South_Africa>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:March;
+ sltsv:numberOfArrivals "299"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/28f3cb50-a2e4-4518-bb43-8e9c02ec52da>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/South_Africa>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:April;
+ sltsv:numberOfArrivals "416"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/82906fef-e4e2-4b77-90b1-ed1c39761594>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/South_Africa>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:May;
+ sltsv:numberOfArrivals "260"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/14026558-3c6a-4725-826d-05641dd3d00a>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/South_Africa>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:June;
+ sltsv:numberOfArrivals "267"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/600abe2d-5734-47fa-aa29-dcc49264cf2e>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/South_Africa>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:July;
+ sltsv:numberOfArrivals "363"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/9f09692b-9721-4df6-9145-4daf56a793a3>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/South_Africa>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:August;
+ sltsv:numberOfArrivals "282"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/ac3cd6cc-c9a7-4cf3-a1d3-4e3280eb2e10>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/South_Africa>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:September;
+ sltsv:numberOfArrivals "226"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/f50c6858-bb8b-47a6-85d2-15850e28280a>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/South_Africa>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:October;
+ sltsv:numberOfArrivals "381"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/ecf49bf3-090a-4c15-8a48-2b2cec0b37b1>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/South_Africa>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:November;
+ sltsv:numberOfArrivals "240"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/22807806-cae3-488a-97a2-fad82155a585>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/South_Africa>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:December;
+ sltsv:numberOfArrivals "860"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/24a4c244-6e8a-45d0-bc53-41acb9e1d21f>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/China>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:January;
+ sltsv:numberOfArrivals "10779"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/1f66fd32-061b-4f1a-89b2-c5f15de7d958>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/China>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:February;
+ sltsv:numberOfArrivals "10319"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/f53bea6a-3c5f-41f1-9d11-feb40f86af80>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/China>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:March;
+ sltsv:numberOfArrivals "7700"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/90d6620e-1ee1-4834-ae60-3c5422485f24>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/China>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:April;
+ sltsv:numberOfArrivals "8005"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/dc122886-28d7-4f64-850f-7ae61437f9a9>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/China>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:May;
+ sltsv:numberOfArrivals "7082"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/c775cd33-cd2c-40f7-b0b6-6cefddcbf2a3>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/China>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:June;
+ sltsv:numberOfArrivals "8345"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/ec90da4d-3175-4a5a-8e0d-6c447aab2c51>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/China>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:July;
+ sltsv:numberOfArrivals "15178"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/b77a668d-6d7e-4acc-ad04-813838a0ed8a>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/China>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:August;
+ sltsv:numberOfArrivals "14274"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/ccef8110-e021-45ef-bc90-536805877de5>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/China>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:September;
+ sltsv:numberOfArrivals "13312"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/09ddbb0f-a3a5-42a1-ad45-11aa7ad915e7>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/China>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:October;
+ sltsv:numberOfArrivals "11894"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/2edab6b6-3151-4f46-b62e-57b1446455ec>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/China>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:November;
+ sltsv:numberOfArrivals "10878"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/38a22e8f-49d1-4bd8-bd56-86c19a26679f>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/China>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:December;
+ sltsv:numberOfArrivals "10400"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/3354efa1-f688-43c7-982a-6dacedcace3b>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Indonesia>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:January;
+ sltsv:numberOfArrivals "4729"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/5804517b-d8d4-48e0-b712-9aeda5c0a9ad>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Indonesia>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:February;
+ sltsv:numberOfArrivals "4654"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/5af49f51-d655-4f10-931c-349bf6798af1>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Indonesia>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:March;
+ sltsv:numberOfArrivals "3223"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/19154500-0c45-46c4-a3f1-e195fe273cb3>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Indonesia>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:April;
+ sltsv:numberOfArrivals "2680"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/5a8a2673-7b33-4b4f-8d45-3b8eecb675d1>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Indonesia>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:May;
+ sltsv:numberOfArrivals "2204"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/842da615-d8d1-4c3e-8cef-edd54b0f6198>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Indonesia>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:June;
+ sltsv:numberOfArrivals "2674"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/e7d37d6e-0d18-40b9-b8db-5312437a4e58>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Indonesia>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:July;
+ sltsv:numberOfArrivals "1063"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/5277472c-2900-4bc8-afbc-8ca785716f46>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Indonesia>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:August;
+ sltsv:numberOfArrivals "743"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/3bbfeb83-c987-482f-a546-727bb4bf89c9>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Indonesia>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:September;
+ sltsv:numberOfArrivals "863"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/0195d499-853a-4f30-8ab2-b2c833949257>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Indonesia>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:October;
+ sltsv:numberOfArrivals "968"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/3df8836f-2b8b-4b09-bea3-a388fdc32435>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Indonesia>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:November;
+ sltsv:numberOfArrivals "573"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/b4151d17-efb3-4fba-b7c3-807f862c84ef>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Indonesia>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:December;
+ sltsv:numberOfArrivals "5184"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/5fa6c9b6-35bf-47ca-ad47-abc1007613dc>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Japan>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:January;
+ sltsv:numberOfArrivals "2859"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/65c340ef-8eb9-43ac-9cdb-9bb816f4b770>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Japan>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:February;
+ sltsv:numberOfArrivals "3350"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/f4edd995-0c67-4d72-b042-6f1ca69378cf>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Japan>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:March;
+ sltsv:numberOfArrivals "3800"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/9dd83d39-e172-4ec6-9eaf-ca33fd05c22e>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Japan>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:April;
+ sltsv:numberOfArrivals "2368"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/4f76188c-1d16-4aa4-a407-aaf18eaa378d>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Japan>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:May;
+ sltsv:numberOfArrivals "2281"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/5f243dc6-36ea-453c-b560-c72b34d79e63>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Japan>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:June;
+ sltsv:numberOfArrivals "2666"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/4a530898-6f22-42d5-9fc1-931465644efd>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Japan>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:July;
+ sltsv:numberOfArrivals "3203"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/33c55206-5449-4d4d-b418-657b796d9156>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Japan>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:August;
+ sltsv:numberOfArrivals "5233"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/64c7db78-f0b1-4fb5-baa2-7bfdc182a3b5>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Japan>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:September;
+ sltsv:numberOfArrivals "3943"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/b810e25a-0d83-400a-a1b7-3a6e23ae6c33>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Japan>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:October;
+ sltsv:numberOfArrivals "2874"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/eb2262c6-76f4-45c5-a4d9-8ea52bf3cfec>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Japan>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:November;
+ sltsv:numberOfArrivals "2518"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/de2aceeb-b878-4e9e-8ed3-a41b1cb0d72b>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Japan>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:December;
+ sltsv:numberOfArrivals "4041"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/4b43f0e0-ad36-43e5-aad1-e2f7a455cc2a>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Malaysia>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:January;
+ sltsv:numberOfArrivals "2059"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/86fd4f36-4802-4bac-9fba-e254478eb189>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Malaysia>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:February;
+ sltsv:numberOfArrivals "1756"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/20f9c61e-2339-4b49-add7-b2a8a538d7fe>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Malaysia>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:March;
+ sltsv:numberOfArrivals "2301"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/ff93a7ee-26ee-4026-893f-7a70554d1ded>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Malaysia>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:April;
+ sltsv:numberOfArrivals "1322"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/5a61bca9-a723-4277-a3fe-39b79ba6a7cf>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Malaysia>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:May;
+ sltsv:numberOfArrivals "1735"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/ac3646c0-7305-41d5-b2f6-7d805933e3c2>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Malaysia>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:June;
+ sltsv:numberOfArrivals "2807"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/38a4ce9d-1588-4d22-8ea1-720c3f968652>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Malaysia>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:July;
+ sltsv:numberOfArrivals "1684"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/c5e1e9de-c05f-427b-918d-483bbd78564c>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Malaysia>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:August;
+ sltsv:numberOfArrivals "1542"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/4787a298-ebb0-4e43-b42e-06d2fa30dc57>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Malaysia>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:September;
+ sltsv:numberOfArrivals "1509"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/bfcb8308-2730-446d-aa38-2235b64a52a9>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Malaysia>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:October;
+ sltsv:numberOfArrivals "1822"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/554b0a99-377d-4b86-aa1e-17941d9183f1>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Malaysia>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:November;
+ sltsv:numberOfArrivals "2018"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/d6aeeb38-bec7-4616-a5d2-135514c7b373>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Malaysia>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:December;
+ sltsv:numberOfArrivals "2623"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/6d2005d6-4c89-483c-9473-b43882f9f0fb>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Philippines>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:January;
+ sltsv:numberOfArrivals "809"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/c79bcfb3-1931-4b8d-90d2-505375e85f3f>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Philippines>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:February;
+ sltsv:numberOfArrivals "708"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/cd622bed-299f-4b33-b55e-9beb41496348>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Philippines>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:March;
+ sltsv:numberOfArrivals "951"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/11a71a2b-753d-4c20-be98-8ca63d076ec3>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Philippines>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:April;
+ sltsv:numberOfArrivals "882"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/700f9ce8-544f-4b97-a5eb-795fafb07024>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Philippines>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:May;
+ sltsv:numberOfArrivals "1113"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/0c316ad1-98e2-4174-ae38-f79632c16de3>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Philippines>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:June;
+ sltsv:numberOfArrivals "1220"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/bc2f3668-d2f4-491f-bb72-c5225b3e8086>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Philippines>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:July;
+ sltsv:numberOfArrivals "983"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/1710d3d9-a13e-48e8-a945-bb60052bd4d0>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Philippines>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:August;
+ sltsv:numberOfArrivals "949"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/10319b62-fafe-419d-bdab-c64b7b1fe745>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Philippines>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:September;
+ sltsv:numberOfArrivals "796"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/a84b9ddd-ae6c-45b1-a130-23051ebcb39d>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Philippines>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:October;
+ sltsv:numberOfArrivals "867"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/b1c374ea-4970-4053-bd06-ec7d5919c578>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Philippines>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:November;
+ sltsv:numberOfArrivals "889"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/fac727b6-768a-486b-baa4-2e3b75534f7f>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Philippines>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:December;
+ sltsv:numberOfArrivals "993"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/33fee337-139c-4520-be9a-3e241c237f66>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Singapore>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:January;
+ sltsv:numberOfArrivals "1191"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/b7b61682-d679-48b8-bcc0-65529ebd7b9a>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Singapore>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:February;
+ sltsv:numberOfArrivals "946"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/af2eb1d4-9f21-4c3a-9722-0090b35e55db>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Singapore>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:March;
+ sltsv:numberOfArrivals "1151"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/a3f386cc-ac35-4c7b-b59e-f153bc76c0a4>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Singapore>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:April;
+ sltsv:numberOfArrivals "1075"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/df464cfd-84c7-4527-af52-a7ec196ad7f6>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Singapore>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:May;
+ sltsv:numberOfArrivals "1072"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/6c829a45-f740-49eb-855e-b2b6b8ff7624>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Singapore>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:June;
+ sltsv:numberOfArrivals "1609"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/edb781fa-2ff4-4aaf-bd0d-bd9c799b654a>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Singapore>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:July;
+ sltsv:numberOfArrivals "1023"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/148b2b94-0055-4e3d-9162-30010d495df1>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Singapore>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:August;
+ sltsv:numberOfArrivals "1126"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/df5c5221-01ef-4441-81fe-42c8e7400541>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Singapore>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:September;
+ sltsv:numberOfArrivals "1019"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/30265a86-86dc-4ded-817f-595ce465ba15>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Singapore>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:October;
+ sltsv:numberOfArrivals "1241"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/4643b95f-72fa-4328-b2b0-58badc59b42a>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Singapore>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:November;
+ sltsv:numberOfArrivals "1638"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/6ebfd5b3-2f05-495d-85bd-02b303e965f1>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Singapore>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:December;
+ sltsv:numberOfArrivals "2671"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/3218158c-a15d-490f-963c-543c13a93141>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Thailand>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:January;
+ sltsv:numberOfArrivals "668"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/b30fd21a-8eda-4bce-b413-d6c2e4068a9b>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Thailand>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:February;
+ sltsv:numberOfArrivals "1019"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/c942369d-5da1-4be1-b474-5b94df2b32e4>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Thailand>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:March;
+ sltsv:numberOfArrivals "771"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/e8bb6e23-d2c4-4211-9043-cfee82e74ce0>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Thailand>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:April;
+ sltsv:numberOfArrivals "766"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/1943b492-580e-4eaa-8c1a-0322c2caa6ab>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Thailand>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:May;
+ sltsv:numberOfArrivals "851"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/0a1b9f03-915a-4fe1-877e-7bd0b03cbf4c>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Thailand>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:June;
+ sltsv:numberOfArrivals "703"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/af1eb9b8-cba1-4dd8-9fd9-bdfa2f013e7b>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Thailand>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:July;
+ sltsv:numberOfArrivals "590"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/f4b2c0ec-a598-4116-b959-3aa28c230415>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Thailand>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:August;
+ sltsv:numberOfArrivals "906"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/1e25df88-65c1-43af-8383-8f592b048932>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Thailand>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:September;
+ sltsv:numberOfArrivals "441"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/514ad6d1-a233-4f63-bfb1-98af68d41494>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Thailand>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:October;
+ sltsv:numberOfArrivals "926"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/ffd1aa86-c083-4501-8010-a88254f2a755>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Thailand>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:November;
+ sltsv:numberOfArrivals "764"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/d5dc48d8-39e0-4fde-ae44-e218d95c70f1>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Thailand>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:December;
+ sltsv:numberOfArrivals "855"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/6330b82f-e935-4d2d-af26-a01c6a48566b>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Taiwan>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:January;
+ sltsv:numberOfArrivals "554"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/a73ee6a3-416b-45d5-805b-16974311d6ba>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Taiwan>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:February;
+ sltsv:numberOfArrivals "763"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/3f91d872-968c-4e99-8b86-55efba61584a>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Taiwan>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:March;
+ sltsv:numberOfArrivals "414"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/0e609005-6632-4e02-b9dc-8270096bc83e>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Taiwan>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:April;
+ sltsv:numberOfArrivals "217"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/4aadf87f-b9e4-4857-8665-d84dd230d051>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Taiwan>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:May;
+ sltsv:numberOfArrivals "235"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/1166c7ee-3929-4279-9f11-2a4f11a4fc20>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Taiwan>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:June;
+ sltsv:numberOfArrivals "625"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/04a6d043-4068-4005-b42f-c766b5a9ccde>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Taiwan>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:July;
+ sltsv:numberOfArrivals "512"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/f28e41db-a9df-44f9-b14f-ac693965988c>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Taiwan>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:August;
+ sltsv:numberOfArrivals "447"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/96b002f3-b1a6-4001-b1d1-447a60dc7460>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Taiwan>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:September;
+ sltsv:numberOfArrivals "278"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/2e4e8bcc-cb6f-4681-957c-2783586b2f84>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Taiwan>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:October;
+ sltsv:numberOfArrivals "372"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/3d9a9f02-01a8-4a48-a8ea-ba2d177e430d>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Taiwan>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:November;
+ sltsv:numberOfArrivals "310"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/78006821-4f98-4dd8-922a-38a2d692a37e>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Taiwan>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:December;
+ sltsv:numberOfArrivals "466"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/56e9f399-801f-4591-ae76-2a303147d467>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/South_Korea>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:January;
+ sltsv:numberOfArrivals "1807"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/63f9a1c1-12bb-4b47-8119-764054b4028e>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/South_Korea>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:February;
+ sltsv:numberOfArrivals "1263"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/d06cf08c-f2f3-45bc-bf32-f60c694f1b67>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/South_Korea>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:March;
+ sltsv:numberOfArrivals "1033"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/56c61290-4507-41b2-b2c3-f9d6d593aba5>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/South_Korea>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:April;
+ sltsv:numberOfArrivals "761"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/2e64297a-7f86-42f7-8299-b21591a49382>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/South_Korea>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:May;
+ sltsv:numberOfArrivals "720"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/a1e9b752-968d-4ceb-bb8b-13b6b43bfc59>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/South_Korea>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:June;
+ sltsv:numberOfArrivals "889"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/64f2ea5c-705e-458d-a3d7-a099d6472d4e>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/South_Korea>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:July;
+ sltsv:numberOfArrivals "1247"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/59525f02-a5db-4b9e-8a4c-a7423bf960e9>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/South_Korea>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:August;
+ sltsv:numberOfArrivals "1109"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/01fa7076-683e-4977-b7ac-916072ca14c8>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/South_Korea>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:September;
+ sltsv:numberOfArrivals "770"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/b9ceb891-f463-4ef2-9fe0-1027b45b30e3>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/South_Korea>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:October;
+ sltsv:numberOfArrivals "1221"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/647cbcec-a886-4f15-8131-9222987a8756>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/South_Korea>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:November;
+ sltsv:numberOfArrivals "1267"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/d7a18f36-d320-4252-975f-78b4b2cf07e1>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/South_Korea>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:December;
+ sltsv:numberOfArrivals "1325"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/3aafeeba-7180-4f5e-a543-03dcec5bc5d7>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/India>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:January;
+ sltsv:numberOfArrivals "17886"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/d304af31-e7c2-4806-9b1f-a538573f59f8>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/India>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:February;
+ sltsv:numberOfArrivals "17534"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/c6d70ae8-803b-4fa0-9ae6-68c92f084eb9>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/India>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:March;
+ sltsv:numberOfArrivals "18734"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/73afce9f-eefe-4343-ade5-7037442fc57d>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/India>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:April;
+ sltsv:numberOfArrivals "17192"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/4694e28f-3089-49df-b5eb-282f2386849e>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/India>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:May;
+ sltsv:numberOfArrivals "22981"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/7e8a1feb-3ad0-4310-9518-f4e25db6ea4e>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/India>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:June;
+ sltsv:numberOfArrivals "19911"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/07ebac84-638b-49f3-b48a-3bbcbcd72cb2>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/India>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:July;
+ sltsv:numberOfArrivals "19277"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/f7b2aaf7-1b28-42c6-afac-2668cba78385>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/India>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:August;
+ sltsv:numberOfArrivals "17912"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/7fcaabda-b54c-42ab-b7d1-df048013adae>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/India>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:September;
+ sltsv:numberOfArrivals "19244"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/aed61544-44b8-41f1-be59-cb1a03d946eb>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/India>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:October;
+ sltsv:numberOfArrivals "26148"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/2d6de5e7-073c-4730-b172-14646d95f0a4>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/India>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:November;
+ sltsv:numberOfArrivals "19762"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/d8b10d85-db82-415b-94c0-f5c0fde93e28>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/India>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:December;
+ sltsv:numberOfArrivals "26153"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/16bb7c1e-198b-4a2f-8c93-56c1d334f811>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Maldives>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:January;
+ sltsv:numberOfArrivals "7024"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/a52d606d-8cd4-4f3e-8a69-a16c7014800c>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Maldives>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:February;
+ sltsv:numberOfArrivals "5549"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/bb1261c9-9c3b-49f6-a1d5-b38c6788d77d>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Maldives>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:March;
+ sltsv:numberOfArrivals "7419"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/87f54226-302b-4ea6-adf5-12600d397a6f>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Maldives>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:April;
+ sltsv:numberOfArrivals "6860"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/ba50bbdc-0212-481a-a2d4-e8089a06be49>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Maldives>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:May;
+ sltsv:numberOfArrivals "6039"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/f7d19853-6ce4-43cf-8c2a-9a8b80e7a4de>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Maldives>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:June;
+ sltsv:numberOfArrivals "7528"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/dbdfdf14-1628-4d66-b94e-db41eac5e6a0>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Maldives>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:July;
+ sltsv:numberOfArrivals "4892"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/2b5bd9b7-0e8a-4b98-a69e-4a39ae5ad24a>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Maldives>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:August;
+ sltsv:numberOfArrivals "5891"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/fb09e1d2-1db5-4d80-bf3b-80c3064f0dde>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Maldives>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:September;
+ sltsv:numberOfArrivals "6276"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/8e962a19-9fc6-478e-8803-4a46c15e44aa>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Maldives>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:October;
+ sltsv:numberOfArrivals "6460"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/116eabf5-cf3e-480c-aec8-368cd21e595f>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Maldives>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:November;
+ sltsv:numberOfArrivals "8329"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/106b047d-731e-4a24-9dfe-50691df48c93>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Maldives>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:December;
+ sltsv:numberOfArrivals "14092"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/dc3702f6-7dcd-470b-b63e-90dbf1dcc478>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Pakistan>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:January;
+ sltsv:numberOfArrivals "2351"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/ae6d1201-67be-4292-b32a-311c545abc25>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Pakistan>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:February;
+ sltsv:numberOfArrivals "1766"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/e57c9d2b-c74d-49d0-8015-90a39e1d28fa>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Pakistan>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:March;
+ sltsv:numberOfArrivals "2500"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/9ffc01fe-14c4-44c7-8376-c430d7436dcf>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Pakistan>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:April;
+ sltsv:numberOfArrivals "2764"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/980d9e85-d682-461a-87a5-7eaa9bead17b>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Pakistan>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:May;
+ sltsv:numberOfArrivals "2813"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/15822006-ef85-4add-a02b-f5fd492c687f>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Pakistan>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:June;
+ sltsv:numberOfArrivals "2213"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/d939f783-d2e8-455b-b5da-8dbc93a2ffca>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Pakistan>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:July;
+ sltsv:numberOfArrivals "1227"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/cd05bee2-1aba-4640-b6d4-cc97cbfc6f4a>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Pakistan>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:August;
+ sltsv:numberOfArrivals "1699"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/237f7433-47fb-4ba8-9561-a12875e74bf2>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Pakistan>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:September;
+ sltsv:numberOfArrivals "1772"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/a2ea7e30-b1fe-4c87-9218-31fb5194232f>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Pakistan>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:October;
+ sltsv:numberOfArrivals "1725"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/671b698a-3032-4883-968b-d6ac1f8e0e04>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Pakistan>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:November;
+ sltsv:numberOfArrivals "1819"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/e89ef479-c7b8-4919-8c5a-943c5426cb31>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Pakistan>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:December;
+ sltsv:numberOfArrivals "2775"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/f8198737-5f51-4fb9-9e42-a06ff35fbc34>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Australia>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:January;
+ sltsv:numberOfArrivals "5535"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/f17988ec-5b17-4360-bb52-a38f5d512b1e>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Australia>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:February;
+ sltsv:numberOfArrivals "3368"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/6d53e180-16ed-440f-a458-d82b57d631f5>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Australia>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:March;
+ sltsv:numberOfArrivals "3564"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/cc14b099-b026-4d46-aafa-e93b9c6064b9>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Australia>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:April;
+ sltsv:numberOfArrivals "5232"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/3644728d-3d3c-4e3d-902a-2e9beb8103f0>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Australia>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:May;
+ sltsv:numberOfArrivals "2840"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/4244f42e-e21e-4e59-8695-7f42b7c96893>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Australia>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:June;
+ sltsv:numberOfArrivals "4430"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/907b0b71-bfeb-46fc-b45b-45bcf794ee1e>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Australia>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:July;
+ sltsv:numberOfArrivals "5124"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/c2adb371-05c9-4c53-9fd9-713ac5eaa1ad>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Australia>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:August;
+ sltsv:numberOfArrivals "4371"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/7c9f0888-a69f-4985-8593-1dfdc281f9f8>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Australia>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:September;
+ sltsv:numberOfArrivals "4421"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/2714f5ab-19f8-4bab-ab85-c3b071765c16>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Australia>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:October;
+ sltsv:numberOfArrivals "3794"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/140b7f19-af54-49d2-95dd-a07b188861cc>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Australia>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:November;
+ sltsv:numberOfArrivals "4423"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/72e2969d-3de5-4f13-acfd-96b3b0a3803e>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/Australia>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:December;
+ sltsv:numberOfArrivals "10838"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/56e02f91-7b76-49c7-a0ab-d6f63e1a67ef>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/New_Zealand>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:January;
+ sltsv:numberOfArrivals "659"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/7361bf3e-d374-4256-8fa1-e736b1f342ac>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/New_Zealand>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:February;
+ sltsv:numberOfArrivals "352"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/13bb2633-3976-4403-afb3-7742835920c4>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/New_Zealand>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:March;
+ sltsv:numberOfArrivals "423"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/12db5879-7bce-4e7d-9960-bee7ad828e92>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/New_Zealand>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:April;
+ sltsv:numberOfArrivals "622"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/6724eba9-870e-4b7c-bb72-6c613dcb4a3c>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/New_Zealand>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:May;
+ sltsv:numberOfArrivals "427"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/30517f1a-0baa-4ea5-a475-d4921cb05e1a>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/New_Zealand>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:June;
+ sltsv:numberOfArrivals "473"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/8537697e-9336-4bd2-abd9-921b305e1d21>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/New_Zealand>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:July;
+ sltsv:numberOfArrivals "657"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/735eb4ac-3d2e-4c5c-8069-7d6734f00ffe>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/New_Zealand>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:August;
+ sltsv:numberOfArrivals "656"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/4f4c75e6-3613-49f6-9258-f801e7acc5fd>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/New_Zealand>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:September;
+ sltsv:numberOfArrivals "474"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/1c6db440-27f9-44dc-80ac-ba80d7c16029>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/New_Zealand>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:October;
+ sltsv:numberOfArrivals "487"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/1dacdb3e-a258-4fc2-b718-51d27727e36f>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/New_Zealand>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:November;
+ sltsv:numberOfArrivals "497"^^xsd:int .
+
+<http://w3id.org/sri-lanka/tourism/values/arrivals-country-year-month/0651d178-9ed8-47ba-90b8-82dedb15829b>  a qb:Observation; 
+ qb:dataSet sltsd:arrivals-month-by-residence; 
+ sltsv:countryOfResidence <http://dbpedia.org/resource/New_Zealand>; 
+ sltsv:year "2014"^^xsd:gYear; 
+ sltsv:month interval:December;
+ sltsv:numberOfArrivals "1153"^^xsd:int .
+

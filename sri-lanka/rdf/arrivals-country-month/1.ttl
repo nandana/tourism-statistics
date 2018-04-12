@@ -1,0 +1,11 @@
+@prefix qb: <http://purl.org/linked-data/cube#> . 
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> . 
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> . 
+@prefix interval: <http://reference.data.gov.uk/def/intervals/> . 
+@prefix sltsv: <http://w3id.org/sri-lanka/tourism/cube-vocab/> .
+@prefix sltsds: <http://w3id.org/sri-lanka/tourism/cube-data-structure/> . 
+@prefix sltsd: <http://w3id.org/sri-lanka/tourism/dataset/> . 
+
+sltsd:arrivals-month-by-residence a qb:DataSet; 
+      rdfs:label "Tourist Arrivals by Country of Residence & Month"@en; 
+      qb:structure sltsds:arrivals-month-by-residence . 
