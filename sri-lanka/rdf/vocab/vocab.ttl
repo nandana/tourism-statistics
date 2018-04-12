@@ -62,17 +62,15 @@ sdmx-concept:refPeriod a sdmx:Concept, skos:Concept ;
     skos:notation "urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=SDMX:CROSS_DOMAIN_CONCEPTS[1.0].REF_PERIOD";
     skos:inScheme sdmx-concept:cog .
 
-interval:January rdfs:label "1-January"@en .
-interval:February rdfs:label "2-February"@en .
-interval:March rdfs:label "3-March"@en .
-interval:April rdfs:label "4-April"@en .
-interval:May rdfs:label "5-May"@en .
-interval:June rdfs:label "6-June"@en .
-interval:July rdfs:label "7-July"@en .
-interval:August rdfs:label "8-August"@en .
-interval:September rdfs:label "9-September"@en .
+interval:January rdfs:label "01-January"@en .
+interval:February rdfs:label "02-February"@en .
+interval:March rdfs:label "03-March"@en .
+interval:April rdfs:label "04-April"@en .
+interval:May rdfs:label "05-May"@en .
+interval:June rdfs:label "06-June"@en .
+interval:July rdfs:label "07-July"@en .
+interval:August rdfs:label "08-August"@en .
+interval:September rdfs:label "09-September"@en .
 interval:October rdfs:label "10-October"@en .
 interval:November rdfs:label "11-November"@en .
 interval:December rdfs:label "12-December"@en .
-
-
